@@ -1,6 +1,5 @@
 /*
-Author: Danielle Kelly dlc1219
-CSC 545 HW 4
+Author: Danielle Kelly 
 */
 
 class SubtitlePlayer {
