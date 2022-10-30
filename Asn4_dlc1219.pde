@@ -1,13 +1,14 @@
 /* 
 
-Author: Danielle Kelly dlc1219
-CSC 545 Assignment 4: Video Player with Subtitles
+Author: Danielle Kelly 
+
+Video Player with Subtitles
 
 Plays videos with subtitles provided by an srt file. Subtitles broken into lines. 
 
 */
 
-//****This program uses the UP and DOWN arrow keys to control speed because I do not have a mouse*****
+//****This program uses the UP and DOWN arrow keys to control speed*****
 
 import processing.video.*;
 
